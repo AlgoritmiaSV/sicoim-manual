@@ -6,7 +6,9 @@ Los roles permiten controlar el acceso específico a distintos elementos del sis
 
 ## Lista de roles
 
-Para ver la lista de roles, desde el menú principal vaya a: **Configuraciones > Roles.**
+Para ver la lista de roles, vaya a: **Configuraciones > Roles.**
+
+![Lista de roles](../img/configuraciones/lista-roles.png)
 
 ---
 
@@ -14,8 +16,14 @@ Para ver la lista de roles, desde el menú principal vaya a: **Configuraciones >
 
 Por defecto, el sistema tendrá creado un rol que estará asignado al administrador del sistema. Sin embargo, puede crear diferentes roles con la configuración de permisos que desee.
 
-Para crear un nuevo rol, vaya a **Configuraciones > Roles**, y luego haga clic en el botón **+**.
+Para crear un nuevo rol, vaya a: **Configuraciones > Roles**, y luego dar clic en el botón **+**.
 
-### Elementos y permisos
+![Crear un rol](../img/configuraciones/crear-rol.png)
 
-Los permisos que encontrará disponibles para cada elemento son: _leer, crear, actualizar y eliminar._
+---
+
+## Elementos y permisos
+
+Los permisos que encontrará disponibles para cada elemento son: **_leer, crear, actualizar y eliminar._**
+
+![lista de servicios](../img/configuraciones/permisos-rol.png)

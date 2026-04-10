@@ -16,8 +16,8 @@ Para ingresar a los avisos de cobro, vaya a: **Cuentas corrientes > Avisos de co
 
 Para realizar la generación de avisos de cobro, vaya a: **Cuentas corrientes > Avisos de cobro**, luego dar clic en la opción de **Generar facturación**, y se mostrará un formulario en donde deberá seleccionar la fecha de vencimiento de el mes en facturación.
 
-![Generación de avisos de cobro](../img/cuentas-corrientes/generación-avisos.png)
+![Generación de avisos de cobro](../img/cuentas-corrientes/generacion-avisos.png)
 
 Luego se mostrará un formulario en donde podrá seleccionar el tipo de generación ya sea por inmuebles o empresas, luego ir seleccionando y generando cada uno de los sectores.
 
-![Generación de avisos de cobro](../img/cuentas-corrientes/generación-inmuebles-empresas.png)
+![Generación de avisos de cobro](../img/cuentas-corrientes/generacion-inmuebles-empresas.png)

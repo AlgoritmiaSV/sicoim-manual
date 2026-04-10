@@ -16,4 +16,4 @@ Para ver la lista de solvencias, vaya a: **Cuentas corrientes > Solvencias**.
 
 Para generar una solvencia, vaya a: **Cuentas corrientes > Solvencias**, y luego dar clic en el botón **+**. En donde podrá seleccionar si la solvencia será emitida a un contribuyente o persona particular.
 
-![Generación de una solvencia](../img/cuentas-corrientes/generación-solvencia.png)
+![Generación de una solvencia](../img/cuentas-corrientes/generacion-solvencia.png)

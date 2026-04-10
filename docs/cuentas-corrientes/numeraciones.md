@@ -10,8 +10,24 @@ Para ver la lista de numeraciones, vaya a: **Cuentas corrientes > Numeraciones**
 
 ---
 
-## Registro de nueva numeración
+## Registrar nueva numeración
 
 Para registrar una nueva numeración, vaya a: **Cuentas corrientes > Numeraciones**, y luego dar clic en el botón **+**.
 
-![Registro de nueva numeración](../img/cuentas-corrientes/registro-nueva-numeración.png)
+![Registrar nueva numeración](../img/cuentas-corrientes/registrar-nueva-numeracion.png)
+
+---
+
+## Editar numeración
+
+Para editar una numeración, vaya a: **Registro familiar > Numeraciones**, luego dar clic en el nombre de la numeración que desea editar y se mostrará una vista en donde podrá observar la opción **Editar**.
+
+![Editar numeración](../img/cuentas-corrientes/editar-numeracion.png)
+
+---
+
+## Eliminar numeración
+
+Para eliminar una numeración, vaya a: **Registro familiar > Numeraciones**, luego dar clic en el nombre de la numeración que desea eliminar y se mostrará una vista en donde podrá observar la opción **Eliminar**.
+
+![Eliminar numeración](../img/cuentas-corrientes/editar-numeracion.png)
