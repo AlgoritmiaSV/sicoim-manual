@@ -1,6 +1,6 @@
 # Sectores
 
-Lista de sectores.
+Los sectores son subdivisiones administrativas o áreas funcionales dentro de un distrito.
 
 ---
 

@@ -1,6 +1,6 @@
 # Numeraciones
 
-Lista de numeraciones registradas.
+Las numeraciones son el registro que permiten controlar de forma consecutiva la emisión de documentos legales y comerciales dentro del sistema.
 
 ---
 

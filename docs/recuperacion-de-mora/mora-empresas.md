@@ -1,6 +1,6 @@
 # Mora empresas
 
-Lista de mora empresas generadas.
+Es un sobrecargo que se aplica a dicha empresa por no haber cancelado el impuesto en el periodo establecido.
 
 ---
 

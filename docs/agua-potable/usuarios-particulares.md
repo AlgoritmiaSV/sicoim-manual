@@ -1,6 +1,6 @@
 # Usuarios particulares
 
-Lista de usuarios particulares.
+Cuando las acometidas de agua no estan asociadas a un inmueble o un contribuyente de Cuentas Corrientes, entonces se usa una vista separada para registrar los usuarios de servicio de agua.
 
 ---
 

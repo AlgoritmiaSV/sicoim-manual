@@ -1,6 +1,6 @@
 # Inmuebles
 
-Lista de Inmuebles
+Un bien inmueble o bien raíz es una propiedad con ubicación fija que no puede trasladarse sin alterar su estructura.
 
 ---
 

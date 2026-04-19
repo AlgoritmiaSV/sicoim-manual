@@ -1,6 +1,6 @@
 # Empresas
 
-Lista de todas las empresas.
+Una empresa es una unidad económica y social, compuesta por capital y recursos humanos.
 
 ---
 

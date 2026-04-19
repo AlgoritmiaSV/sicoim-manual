@@ -1,6 +1,6 @@
 # Listas
 
-Listado de todos los sectores que se imprime para la toma de lecturas.
+Listado de sectores que se imprime para la toma de lecturas.
 
 ---
 

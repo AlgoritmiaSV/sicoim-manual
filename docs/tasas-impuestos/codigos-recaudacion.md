@@ -1,6 +1,6 @@
 # Códigos de recaudación
 
-Lista de códigos de recaudación.
+Los códigos de recaudación son identificadores numéricos utilizados por las administraciones tributarias, para clasificar y procesar pagos de impuestos, tasas y contribuciones.
 
 ---
 

@@ -20,7 +20,7 @@ Para activar o desactivar fiestas, multas o íntereses dar clic en la casilla de
 
 ---
 
-### Impresión de un recibo
+### Imprimir recibo
 
 Para imprimir un recibo luego de que se ha hecho el proceso de generación se mostrará una vista en donde se podrá observar la opción **Imprimir**. Al momento de dar clic en la opción **Imprimir** se genera el correlativo.
 

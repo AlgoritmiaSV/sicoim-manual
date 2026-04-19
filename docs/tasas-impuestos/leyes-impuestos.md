@@ -1,6 +1,6 @@
 # Leyes de impuestos
 
-Lista de leyes de impuestos registradas.
+Las leyes tributarias son las reglas y los procedimientos legales que rigen la forma en que el Gobierno federal y los Gobiernos estatales y locales calculan los impuestos.
 
 ---
 

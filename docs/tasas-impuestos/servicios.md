@@ -1,6 +1,6 @@
 # Servicios
 
-Lista de servicios registrados.
+Es la contraprestación económica que los ciudadanos y dueños de negocios deben cancelar a la municipalidad a cambio de la prestación de servicios públicos o por el derecho de ejercer una actividad económica en la zona.
 
 ---
 

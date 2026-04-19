@@ -1,6 +1,6 @@
 # Usuarios
 
-Lista de usuarios.
+El servicio de agua potable y alcantarillado tiene como usuarios a un conjunto de personas, tanto físicas como morales, que hace uso del mismo para satisfacer necesidades individuales, productivas o sociales.
 
 ---
 

@@ -1,6 +1,6 @@
 # Lecturas
 
-Listado y registro de lecturas generadas.
+Es un proceso mensual, que determina y valida el consumo efectivo de un medidor, en forma oportuna y confiable, cumpliendo con la normativa vigente, como para el correcto desempeño de los procesos de facturación y gestión de pérdidas.
 
 ---
 

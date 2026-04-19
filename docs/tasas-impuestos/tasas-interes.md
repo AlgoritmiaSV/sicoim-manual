@@ -1,6 +1,6 @@
 # Tasas de interés
 
-Lista de tasas de interés registradas.
+Las tasas de interés suelen aplicarse a intereses moratorios sobre tasas municipales no pagadas.
 
 ---
 

@@ -1,6 +1,6 @@
 # Ordenanzas de exención
 
-Lista de ordenanzas de exención registradas.
+Las ordenanzas de exención municipales son normativas transitorias aprobadas por los Consejos Municipales para dispensar intereses moratorios y multas sobre deudas de tasas e impuestos locales.
 
 ---
 

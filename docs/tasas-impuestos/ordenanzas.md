@@ -1,6 +1,6 @@
 # Ordenanzas
 
-Lista de ordenanzas registradas.
+Las ordenanzas municipales son normas jurídicas de carácter general y obligatorio dictadas por el Consejo Municipal para regular materias de interés local dentro de su jurisdicción.
 
 ---
 

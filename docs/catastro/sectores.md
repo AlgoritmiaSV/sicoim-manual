@@ -1,6 +1,6 @@
 # Sectores
 
-Lista de sectores.
+Los sectores municipales son subdivisiones administrativas o áreas funcionales dentro de un distrito.
 
 ---
 
@@ -20,12 +20,16 @@ Para registrar un nuevo sector, vaya a: **Catastro > Sectores**, y luego dar cli
 
 ---
 
-## Modificar un sector
+## Modificar sector
 
 Para modificar un sector, vaya a: **Catastro > Sectores**, luego dar clic en el nombre de el sector que desea modificar y se podrá observar la opción **Editar**.
 
+![Modificar sector](../img/catastro/modificar-sector.png)
+
 ---
 
-## Eliminar un sector
+## Eliminar sector
 
 Para eliminar un sector, vaya a: **Catastro > Sectores**, luego dar clic en el nombre de el sector que desea eliminar y se podrá observar la opción **Eliminar**.
+
+![Eliminar sector](../img/catastro/modificar-sector.png)

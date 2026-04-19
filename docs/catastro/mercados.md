@@ -1,6 +1,6 @@
 # Mercados
 
-Lista de mercados
+Un mercado municipal es un espacio físico, público y planificado, gestionado por el ayuntamiento o gobierno local, destinado a la comercialización minorista de productos de primera necesidad.
 
 ---
 

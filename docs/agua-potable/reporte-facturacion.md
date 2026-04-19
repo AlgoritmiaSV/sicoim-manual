@@ -1,6 +1,6 @@
 # Reporte de facturación
 
-Reporte de avisos de cobro.
+Un reporte de facturación es un informe detallado que resume las transacciones financieras, en un periodo específico.
 
 ---
 

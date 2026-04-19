@@ -1,6 +1,6 @@
 # Contribuyentes
 
-Lista de contribuyentes registrados.
+Un contribuyente es la persona natural o jurídica que tiene la obligación de pagar un impuesto. En SICOIM, los contribuyentes se asignan como propietarios de inmuebles, representantes legales de empresas, y como propietarios de acometidas de agua potable.
 
 ---
 
@@ -23,6 +23,8 @@ Para registrar un nuevo contribuyente, vaya a: **Catastro > Contribuyentes**, y 
 ## Modificar un contribuyente
 
 Para modificar un contribuyente, vaya a: **Catastro > Contribuyentes**, luego dar clic en el contribuyente que desea modificar, se mostrará una vista en donde se podrá observar la opción **Editar**.
+
+En la siguiente ilustracición se muestra la vista de detalle del contribuyente, donde aparece el botón editar.
 
 ![Modificar un contribuyente](../img/catastro/modificar-contribuyente.png)
 

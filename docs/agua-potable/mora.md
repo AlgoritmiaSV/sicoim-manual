@@ -1,6 +1,6 @@
 # Mora
 
-Listado de acometidas en mora.
+Es un sobrecargo que se aplica a dicha acometida por no haberse cancelado en el periodo establecido.
 
 ---
 

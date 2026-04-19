@@ -1,6 +1,6 @@
 # Facturación
 
-Listado de los avisos de cobro generados con su respectivo estado ya sea pendiente o pagado.
+Listado de avisos de cobro generados con su respectivo estado ya sea pendiente o pagado.
 
 ---
 

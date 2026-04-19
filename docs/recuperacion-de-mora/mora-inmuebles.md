@@ -1,6 +1,6 @@
 # Mora inmuebles
 
-Lista de mora inmuebles generada.
+Es un sobrecargo que se aplica a dicho inmueble por no haber cancelado el impuesto en el periodo establecido.
 
 ---
 

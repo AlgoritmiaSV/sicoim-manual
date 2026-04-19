@@ -1,6 +1,6 @@
 # Ingresos diarios
 
-tabla de ingresos diarios.
+Los ingresos diarios son el dinero recibido por cobro de impuestos o prestación de servicios dentro de un distrito, clasificados por código de ingresos.
 
 ---
 

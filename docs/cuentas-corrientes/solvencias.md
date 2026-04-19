@@ -1,6 +1,6 @@
 # Solvencias
 
-Lista de solvencias registradas.
+La solvencia municipal es un documento en el que hace constar que el contribuyente se encuentra al día con sus obligaciones tributarias municipales.
 
 ---
 

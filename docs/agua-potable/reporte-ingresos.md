@@ -1,6 +1,6 @@
 # Reporte de ingresos
 
-Lista de reporte de ingresos.
+La presentación de informes de ingresos es el proceso de documentar y analizar los ingresos que una entidad genera a partir de sus actividades comerciales normales.
 
 ---
 

@@ -1,6 +1,6 @@
 # Avisos de cobro
 
-Lista de avisos generados.
+Generación de avisos de cobro o listado de avisos de cobro generados meses anteriores.
 
 ---
 

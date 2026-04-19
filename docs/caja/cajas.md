@@ -1,6 +1,6 @@
 # Cajas
 
-Lista de cajas.
+Lista de cajas creadas para cobrar los diferentes tipos de recibos.
 
 ---
 
